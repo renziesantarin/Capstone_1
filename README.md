@@ -32,7 +32,7 @@ This project analyzes sales performance for the Florida territory, managed by La
 * GitHub (project version control and repository management)
 * PowerPoint (presentation)
 
+###### 
 
-
-###### **VIDEO LINK HERE:**https://yearuptemp-my.sharepoint.com/:v:/g/personal/dsharma_yearup_org/IQB7zaR3pa98T6L_lKaERd76AVu4Q533ZBFu-ks8Tfbu-I0?e=iC2DKu
+**VIDEO LINK HERE:** https://yearuptemp-my.sharepoint.com/:v:/g/personal/dsharma\_yearup\_org/IQB7zaR3pa98T6L\_lKaERd76AVu4Q533ZBFu-ks8Tfbu-I0?e=iC2DKu
 
